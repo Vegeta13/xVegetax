@@ -6,6 +6,7 @@ Hello My name is Mokhtar I am a C++/HTML/Lua developer from Marseille
 
 <p align="left">
 <a href="https://discord.gg/RAdZXX7Ruj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RAdZXX7Ruj" height="30" width="40" /></a>
+  <a href="https://www.twitch.tv/zedstreamm" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-twitch-2.pngdiscord.svg" alt="RAdZXX7Ruj" height="30" width="40" /></a>
 </p>
 
 
