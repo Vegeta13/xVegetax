@@ -2,4 +2,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xVegetax&show_icons=true&theme=aura_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
